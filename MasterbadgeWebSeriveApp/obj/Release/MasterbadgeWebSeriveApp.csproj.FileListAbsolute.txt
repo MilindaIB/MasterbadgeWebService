@@ -1,0 +1,6 @@
+C:\Users\mrdot\OneDrive\Documents\Visual Studio 2013\Projects\MasterBadgeTrackingSolution\MasterbadgeWebSeriveApp\bin\MasterbadgeWebSeriveApp.dll.config
+C:\Users\mrdot\OneDrive\Documents\Visual Studio 2013\Projects\MasterBadgeTrackingSolution\MasterbadgeWebSeriveApp\bin\MasterbadgeWebSeriveApp.dll
+C:\Users\mrdot\OneDrive\Documents\Visual Studio 2013\Projects\MasterBadgeTrackingSolution\MasterbadgeWebSeriveApp\bin\MasterbadgeWebSeriveApp.pdb
+C:\Users\mrdot\OneDrive\Documents\Visual Studio 2013\Projects\MasterBadgeTrackingSolution\MasterbadgeWebSeriveApp\obj\Release\MasterbadgeWebSeriveApp.csprojResolveAssemblyReference.cache
+C:\Users\mrdot\OneDrive\Documents\Visual Studio 2013\Projects\MasterBadgeTrackingSolution\MasterbadgeWebSeriveApp\obj\Release\MasterbadgeWebSeriveApp.dll
+C:\Users\mrdot\OneDrive\Documents\Visual Studio 2013\Projects\MasterBadgeTrackingSolution\MasterbadgeWebSeriveApp\obj\Release\MasterbadgeWebSeriveApp.pdb
